@@ -7,7 +7,7 @@ body {
   place-items: center;
   background: linear-gradient(hsl(273, 75%, 66%), hsl(240, 73%, 65%));
   background-repeat: no-repeat;
-  padding: 30px;
+  padding: 10px;
   height: 100vh;
 }
 
@@ -69,6 +69,10 @@ body {
   display: block;
   color: hsl(240, 6%, 50%);
   width: 325px;
+}
+
+.faq-item input:checked + .question {
+  font-weight: 700;
 }
 
 .question:hover {
