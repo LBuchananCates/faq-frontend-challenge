@@ -59,6 +59,7 @@ body {
 
 .faq-item .answer {
   border-top: 2px solid hsl(240, 5%, 91%);
+  /* adjust length of border for mobile */
 }
 
 .faq-item input + .question + .answer {
