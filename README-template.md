@@ -2,6 +2,8 @@
 
 This is a solution to the [FAQ accordion card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/faq-accordion-card-XlyjD0Oam). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
+Check out my life demo here: https://tourmaline-dolphin-6bb523.netlify.app
+
 ## Table of contents
 
 - [Overview](#overview)
